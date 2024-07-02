@@ -14,12 +14,12 @@ The quiz app first Screen, with that screen i've learn how to import images in f
 
 ## Second Screen
 <p align = "center">
-<img src = "image1.png">
+<img src = "image-1.png">
 </p>
 With that screen i can learn how to manipulate the Widget's and Widget's format's and how the parents can affect his childrens Widgets, i've also learn some MVC concept's to play around with data in a dinamyc and consistant way.
 
 <p align = "center">
-<img src = "image2.png">
+<img src = "image-2.png">
 </p>
 
 Last, but not least, the result Screen who's have an ScroolView, that screen allows the use see your answer's, in green and the correct answer in red, also show you the answer index and if it's wrong or correct. Besides, the user can restart the Quiz again. 
